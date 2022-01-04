@@ -1,15 +1,15 @@
 # python_quiz
 
-1.Step one
+1.Step One
 Download file 
 
-2.Step two download python for your operating system
+2.Step Two download python for your operating system
 link: https://www.python.org/downloads/
 
-3.Step three
+3.Step Three
 Open file with your code editor
 
-4.Step four 
+4.Step Four 
 Open your code editor then your terminal
 in windows OS add text : python quiz.py
 in mac OS add text : python3 quiz.py
