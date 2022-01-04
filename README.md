@@ -10,6 +10,6 @@ link: https://www.python.org/downloads/
 Open file with your code editor
 
 4.Step Four 
-Open your code editor then your terminal
+Open your code editor then in your terminal
 in windows OS add text : python quiz.py
 in mac OS add text : python3 quiz.py
