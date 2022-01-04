@@ -13,3 +13,4 @@ Open file with your code editor
 Open your code editor then in your terminal
 in windows OS add text : python quiz.py
 in mac OS add text : python3 quiz.py
+
